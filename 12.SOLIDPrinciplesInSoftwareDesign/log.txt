@@ -1,0 +1,6 @@
+Error parsing JSON.
+User Pesho successfully registered.
+Warning - missing files.
+Error parsing JSON.
+User Pesho successfully registered.
+Warning - missing files.

@@ -1,0 +1,5 @@
+D:\SoftUni\VisualStudio\КПК\Homeworks\SOLIDPrinciplesInSoftwareDesign\Logger\bin\Debug\Logger.dll
+D:\SoftUni\VisualStudio\КПК\Homeworks\SOLIDPrinciplesInSoftwareDesign\Logger\bin\Debug\Logger.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\SOLIDPrinciplesInSoftwareDesign\Logger\obj\Debug\LoggerSOLID.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\КПК\Homeworks\SOLIDPrinciplesInSoftwareDesign\Logger\obj\Debug\Logger.dll
+D:\SoftUni\VisualStudio\КПК\Homeworks\SOLIDPrinciplesInSoftwareDesign\Logger\obj\Debug\Logger.pdb
